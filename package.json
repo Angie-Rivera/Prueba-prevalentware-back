@@ -1,0 +1,8 @@
+{
+  "name": "prevalent-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Angie-Rivera/Prueba-prevalentware-back.git",
+  "author": "Angie-Rivera <alejandrarivera1991@gmail.com>",
+  "license": "MIT"
+}
